@@ -169,7 +169,7 @@ sample_books = [
         "category": "Business & Self-Help",
         "description": "Harness the power of artificial intelligence to build wealth in the digital age. Learn cutting-edge strategies for leveraging AI in business and investments.",
         "price": 29.99,
-        "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e",
+        "image_url": "https://i.ibb.co/4Z5cv9rV/1a7d4246-702f-488f-bd88-4761f0f37e10.jpg",
         "amazon_link": "https://www.amazon.com/s?k=AI+Millionaire+Dr+Orion+Vexel",
         "featured": True
     },
