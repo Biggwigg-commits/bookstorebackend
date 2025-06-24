@@ -90,7 +90,7 @@ sample_books = [
         "category": "Young Readers",
         "description": "A thrilling mystery adventure as Bubble Bear solves the case of the mysterious Pumpkin Pirate. Perfect for young readers who love mysteries and adventures.",
         "price": 12.99,
-        "image_url": "https://images.unsplash.com/photo-1509909756405-be0199881695",
+        "image_url": "https://blogger.googleusercontent.com/img/a/AVvXsEgiFiLXUg3WkITwf_2znvnAUQH3O_7-C9SXH7CFVYnF9nxWHxNAbmLlnzF09-EskP_B5JZVsadhm9phyWEnHjwy_OSIINS056TFdpyyW0zkVX3McxTbTew3mTGNcm2ladKznT3J406oSmPgtjfTUQQ7BC5CKCMxOD5iIpIQ8hKiLEbspPLPmfeon36z-wc",
         "amazon_link": "https://www.amazon.com/s?k=Bubble+Bear+Mystery+Pumpkin+Pirate+Garry+Jordan",
         "featured": False
     },
