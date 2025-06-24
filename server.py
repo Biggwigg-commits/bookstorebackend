@@ -170,7 +170,7 @@ sample_books = [
         "description": "Harness the power of artificial intelligence to build wealth in the digital age. Learn cutting-edge strategies for leveraging AI in business and investments.",
         "price": 29.99,
         "image_url": "https://i.ibb.co/4Z5cv9rV/1a7d4246-702f-488f-bd88-4761f0f37e10.jpg",
-        "amazon_link": "https://www.amazon.com/s?k=AI+Millionaire+Dr+Orion+Vexel",
+        "amazon_link": "https://www.amazon.com/AI-MILLIONAIRE-Fortune-Automated-Intelligence/dp/B0F2XRJJKL/ref=mp_s_a_1_1?dib=eyJ2IjoiMSJ9.xy_6XUK1rjM43C7QFi-2rg.f5Y8Vnx7rHhG6lKDb0GREQmBFxJDOmQYkvr3luYFhP8&dib_tag=se&keywords=AI+Millionaire+Dr+Orion+Vexel&qid=1750783916&sr=8-1",
         "featured": True
     },
     {
