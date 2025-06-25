@@ -68,7 +68,7 @@ sample_books = [
         "category": "Young Readers",
         "description": "Join Bubble Bear on an amazing adventure filled with friendship, discovery, and fun! A delightful story that teaches children about courage, friendship, and the joy of exploration.",
         "price": 12.99,
-        "image_url": "https://i.ibb.co/Pv0BQ11t/Whats-App-Image-2025-06-25-at-6-02-11-AM-4.jpg",
+        "image_url": "https://i.ibb.co/ccHc420q/Whats-App-Image-2025-06-25-at-6-02-11-AM-1.jpg",
         "amazon_link": "https://www.amazon.com/dp/B08XYZ123A",
         "featured": True
     },
