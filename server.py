@@ -68,7 +68,7 @@ sample_books = [
         "category": "Young Readers",
         "description": "Join Bubble Bear on an amazing adventure filled with friendship, discovery, and fun! A delightful story that teaches children about courage, friendship, and the joy of exploration.",
         "price": 12.99,
-        "image_url": "https://images.unsplash.com/photo-1544947950-fa07a98d237f",
+        "image_url": "https://i.ibb.co/Pv0BQ11t/Whats-App-Image-2025-06-25-at-6-02-11-AM-4.jpg",
         "amazon_link": "https://www.amazon.com/dp/B08XYZ123A",
         "featured": True
     },
@@ -79,7 +79,7 @@ sample_books = [
         "category": "Young Readers",
         "description": "Experience the excitement and nervousness of the first day of school with Bubble Bear and friends. A heartwarming tale about new beginnings and making friends.",
         "price": 12.99,
-        "image_url": "https://images.unsplash.com/photo-1497486751825-1233686d5d80",
+        "image_url": "https://i.ibb.co/GvVq7Tc8/Whats-App-Image-2025-06-25-at-6-02-11-AM-3.jpg",
         "amazon_link": "https://www.amazon.com/s?k=Bubble+Bear+Friends+First+Day+School+Garry+Jordan",
         "featured": False
     },
@@ -112,7 +112,7 @@ sample_books = [
         "category": "Young Readers",
         "description": "Celebrate the magic of Christmas with Bubble Bear and friends in this heartwarming holiday tale. A perfect Christmas story for young readers.",
         "price": 12.99,
-        "image_url": "https://images.unsplash.com/photo-1512389142860-9c449e58a543",
+        "image_url": "https://i.ibb.co/8nrLzvF3/Whats-App-Image-2025-06-25-at-6-02-11-AM.jpg",
         "amazon_link": "https://www.amazon.com/s?k=Bubble+Bear+Friends+Christmas+Garry+Jordan",
         "featured": False
     },
@@ -136,7 +136,7 @@ sample_books = [
         "category": "Business & Self-Help",
         "description": "Unlock the secrets to building wealth and achieving financial success through proven strategies and timeless principles that have helped countless individuals achieve prosperity.",
         "price": 24.99,
-        "image_url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f",
+        "image_url": "https://i.ibb.co/TMSQVDWc/Whats-App-Image-2025-06-25-at-6-02-12-AM.jpg",
         "amazon_link": "https://www.amazon.com/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331",
         "featured": True
     },
@@ -147,7 +147,7 @@ sample_books = [
         "category": "Business & Self-Help",
         "description": "Discover 100 proven side hustles and business ideas that can transform your financial future. From digital marketing to real estate, find the perfect opportunity for you.",
         "price": 19.99,
-        "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44",
+        "image_url": "https://i.ibb.co/8g6NMs89/Whats-App-Image-2025-06-25-at-6-02-12-AM-2.jpg",
         "amazon_link": "https://www.amazon.com/s?k=100+Side+Hustles+Millionaire+Garry+Wiggins",
         "featured": False
     },
@@ -158,7 +158,7 @@ sample_books = [
         "category": "Business & Self-Help",
         "description": "Insider secrets and strategies from the world's wealthiest individuals. Learn the mindset and tactics that separate the ultra-wealthy from everyone else.",
         "price": 22.99,
-        "image_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
+        "image_url": "https://i.ibb.co/fzR440YM/Whats-App-Image-2025-06-25-at-6-02-12-AM-1.jpg",
         "amazon_link": "https://www.amazon.com/s?k=What+Billionaires+Won't+Tell+You+Garry+Jordan",
         "featured": False
     },
@@ -180,7 +180,7 @@ sample_books = [
         "category": "Business & Self-Help",
         "description": "Master the mindset and skills needed to succeed in any entrepreneurial venture. Learn the art of turning opportunities into profitable businesses.",
         "price": 18.99,
-        "image_url": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85",
+        "image_url": "https://i.ibb.co/XxF42Xmm/Whats-App-Image-2025-06-25-at-6-58-45-AM.jpg",
         "amazon_link": "https://www.amazon.com/s?k=Art+of+Hustling+Garry+Wiggins",
         "featured": False
     },
@@ -191,7 +191,7 @@ sample_books = [
         "category": "Business & Self-Help",
         "description": "Time-tested principles and strategies for building lasting wealth from one of America's most prominent financial families.",
         "price": 21.99,
-        "image_url": "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e",
+        "image_url": "https://i.ibb.co/KjhqmFvT/Whats-App-Image-2025-06-25-at-6-02-12-AM-3.jpg",
         "amazon_link": "https://www.amazon.com/s?k=Secrets+Getting+Rich+Preston+Rockefeller",
         "featured": False
     },
@@ -215,7 +215,7 @@ sample_books = [
         "category": "Action & Thriller",
         "description": "A heart-pounding thriller that will keep you on the edge of your seat until the very last page. When death comes calling, every second counts.",
         "price": 16.99,
-        "image_url": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570",
+        "image_url": "https://i.ibb.co/XxQpTTnn/Whats-App-Image-2025-06-25-at-7-05-03-AM.jpg",
         "amazon_link": "https://www.amazon.com/s?k=Today+You+Will+Die+Garry+Wiggins",
         "featured": True
     },
@@ -226,7 +226,7 @@ sample_books = [
         "category": "Action & Thriller",
         "description": "A sophisticated crime thriller involving the perfect heist and unexpected twists. When the stakes are high, trust no one.",
         "price": 17.99,
-        "image_url": "https://images.unsplash.com/photo-1578662996442-48f60103fc96",
+        "image_url": "https://i.ibb.co/WvZFWsP4/Whats-App-Image-2025-06-25-at-6-02-11-AM-2.jpg",
         "amazon_link": "https://www.amazon.com/s?k=Midnight+Heist+Garry+Wiggins",
         "featured": False
     },
@@ -239,7 +239,7 @@ sample_books = [
         "category": "Legal Information",
         "description": "Essential legal strategies and knowledge for navigating federal regulations and procedures. A comprehensive guide to understanding federal law.",
         "price": 34.99,
-        "image_url": "https://images.unsplash.com/photo-1589391886645-d51941baf7fb",
+        "image_url": "https://i.ibb.co/KvYkBSK/Whats-App-Image-2025-06-25-at-7-10-29-AM.jpg",
         "amazon_link": "https://www.amazon.com/s?k=Beating+the+Feds+Garry+Wiggins",
         "featured": False
     },
@@ -250,7 +250,7 @@ sample_books = [
         "category": "Legal Information",
         "description": "Advanced legal strategies and updated information for federal case management. The sequel to the bestselling legal guide.",
         "price": 36.99,
-        "image_url": "https://images.unsplash.com/photo-1589391886645-d51941baf7fb",
+        "image_url": "https://i.ibb.co/P2k1zq3/Whats-App-Image-2025-06-25-at-6-02-11-AM-5.jpg",
         "amazon_link": "https://www.amazon.com/s?k=Beating+the+Feds+II+Garry+Wiggins",
         "featured": False
     }
