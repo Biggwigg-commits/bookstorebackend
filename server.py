@@ -214,9 +214,9 @@ sample_books = [
         "author": "Garry Wiggins",
         "category": "Action & Thriller",
         "description": "A heart-pounding thriller that will keep you on the edge of your seat until the very last page. When death comes calling, every second counts.",
-        "price": 16.99,
+        "price": 14.99,
         "image_url": "https://i.ibb.co/XxQpTTnn/Whats-App-Image-2025-06-25-at-7-05-03-AM.jpg",
-        "amazon_link": "https://www.amazon.com/s?k=Today+You+Will+Die+Garry+Wiggins",
+        "amazon_link": "https://www.amazon.com/TODAY-YOU-WILL-GARRY-WIGGINS-ebook/dp/B0F3K1FP6V/ref=mp_s_a_1_1?crid=11EV9HVUL1ZN6&dib=eyJ2IjoiMSJ9.YVuMKbGX1ZD4YjHzRwerxY6Z0QNh3_CMWVteYaJMCTxf5EuWAFTBq1o4v4MRckNVi95u_SIcM7eXSjl5sLPGf8MvaZ1Br68Flibt_xuDl34W6wvUN8B026k_qvVvLWaG9N4BwjaAS3IN8HrxUXn5XCVe8N-b-kRJlhTGvCh3kpCker3T1qY3lTKSecY8ClM-4RlZsj6HmHUQGRt0A8h-uA.gGw_M1uP_fAxs5OyOJ3lRQGldaQ-_0bNsZw7wi9XkeA&dib_tag=se&keywords=today+you+will+die&qid=1750869734&sprefix=today+you+will+die+%2Caps%2C193&sr=8-1",
         "featured": True
     },
     {
@@ -238,9 +238,9 @@ sample_books = [
         "author": "Garry Wiggins",
         "category": "Legal Information",
         "description": "Essential legal strategies and knowledge for navigating federal regulations and procedures. A comprehensive guide to understanding federal law.",
-        "price": 34.99,
+        "price": 69.00,
         "image_url": "https://i.ibb.co/KvYkBSK/Whats-App-Image-2025-06-25-at-7-10-29-AM.jpg",
-        "amazon_link": "https://www.amazon.com/s?k=Beating+the+Feds+Garry+Wiggins",
+        "amazon_link": "https://www.amazon.com/Beating-Feds-comprehensive-Successful-Information/dp/B0BMT22BMD/ref=mp_s_a_1_2?crid=1NEIDW5E8YN3L&dib=eyJ2IjoiMSJ9.oD0wJZ3yHoi4Vngh4Pk_KZhvvGvXWwSXoC4LnOTjbDB-VRUx_ZpLMo6rqq4MCLJSRz-RGF6MiMCc3qZFnwGKbdku5UDKbJUTpZ1sZFsC3PE.8Cbjgq_LbZmreToepf_aebMej6Z3ZZrGKrg7sL21XDE&dib_tag=se&keywords=beating+the+feds&qid=1750869667&sprefix=beating+the+feds%2Caps%2C572&sr=8-2",
         "featured": False
     },
     {
