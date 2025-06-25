@@ -101,7 +101,7 @@ sample_books = [
         "category": "Young Readers",
         "description": "Learn about courage and friendship as Bubble Bear and friends stand up to bullying. An important story about standing up for what's right and supporting friends.",
         "price": 12.99,
-        "image_url": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570",
+        "image_url": "https://i.ibb.co/VYPTXpPm/d0c08a16-ae98-4080-af6a-0e96ba485193.jpg",
         "amazon_link": "https://www.amazon.com/s?k=Bubble+Bear+Friends+Defeat+Biggie+Bully+Garry+Jordan",
         "featured": False
     },
@@ -123,7 +123,7 @@ sample_books = [
         "category": "Young Readers",
         "description": "An educational adventure with Little Willie as he discovers new things about the world around him. A delightful learning journey for curious young minds.",
         "price": 11.99,
-        "image_url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b",
+        "image_url": "https://i.ibb.co/QvZ7ps9s/710decf7-f741-46a1-8557-8c6c70da4cbb.jpg",
         "amazon_link": "https://www.amazon.com/s?k=Little+Willie+Learns+Lot+Garry+Jordan",
         "featured": False
     },
