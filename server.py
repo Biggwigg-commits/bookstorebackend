@@ -202,7 +202,7 @@ sample_books = [
         "category": "Business & Self-Help",
         "description": "Exclusive insights from generational wealth builders and their proven strategies. Learn the secrets that have been passed down through wealthy families for generations.",
         "price": 26.99,
-        "image_url": "https://images.unsplash.com/photo-1434626881859-194d67b2b86f",
+        "image_url": "https://i.ibb.co/KjhqmFvT/Whats-App-Image-2025-06-25-at-6-02-12-AM-3.jpg",
         "amazon_link": "https://www.amazon.com/s?k=What+Rich+Won't+Tell+You+Preston+Rockefeller",
         "featured": False
     },
