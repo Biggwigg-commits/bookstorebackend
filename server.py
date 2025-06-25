@@ -100,9 +100,9 @@ sample_books = [
         "author": "Garry Jordan",
         "category": "Young Readers",
         "description": "Learn about courage and friendship as Bubble Bear and friends stand up to bullying. An important story about standing up for what's right and supporting friends.",
-        "price": 12.99,
+        "price": 24.99,
         "image_url": "https://i.ibb.co/VYPTXpPm/d0c08a16-ae98-4080-af6a-0e96ba485193.jpg",
-        "amazon_link": "https://www.amazon.com/s?k=Bubble+Bear+Friends+Defeat+Biggie+Bully+Garry+Jordan",
+        "amazon_link": "https://www.amazon.com/BUBBLE-BEARS-GREAT-ADVENTURE-JORDAN/dp/B0BMTBF9F3/ref=mp_s_a_1_1?crid=3LCYDJ7PUTNVO&dib=eyJ2IjoiMSJ9.zMiTxvjHBD5Okjxj1WV7oHmKs9mDj1jDFhl0tlBp3_faUGF6BJELlPf2_PZuayQ6hFhLngEKslGOABLa2xgRXRGeSdu678bD4yQjFrMDywWgPz1tuu03_bJiSC9ZMz-l14uClNIg-qRDfvvodlCj18n75k_H8Rp26u-Y4QPEPY53n5Hgons7YOf6iWtocwr9VECQuF_QAX5JtJdP1PdHOA.tSnVdBVDH62wm-9xfQXDsPO_cHgJPKTQ37nl3y1bB6E&dib_tag=se&keywords=bubble+bears+great+adventure&qid=1750869871&sprefix=bubble+bears+great+adventure+%2Caps%2C175&sr=8-1",
         "featured": False
     },
     {
@@ -111,9 +111,9 @@ sample_books = [
         "author": "Garry Jordan",
         "category": "Young Readers",
         "description": "Celebrate the magic of Christmas with Bubble Bear and friends in this heartwarming holiday tale. A perfect Christmas story for young readers.",
-        "price": 12.99,
+        "price": 22.99,
         "image_url": "https://i.ibb.co/8nrLzvF3/Whats-App-Image-2025-06-25-at-6-02-11-AM.jpg",
-        "amazon_link": "https://www.amazon.com/s?k=Bubble+Bear+Friends+Christmas+Garry+Jordan",
+        "amazon_link": "https://www.amazon.com/BUBBLE-FRIENDS-CHRISTMAS-GARRY-JORDAN/dp/B0F5WTHWMS/ref=mp_s_a_1_1?crid=12BVT2EI2G2XG&dib=eyJ2IjoiMSJ9.7sHz7QmP9SDRAoBGsM3OLoEQKiId3V3SyLAXAELdXTVehW61n3finAY4lgwLlgwQVyLjrFmlEH2FeQf-j3TFKIe3ZBy4iX6ys1Z-fY5XZDGsX1APF73v7lU7-KYZUo0Cv3qB_f8fHemo3M7sqWAeDhh0mdBLkCLPTI_VktvzZdEMglV-k-ZlimNFewTBTA9YtnZTzj1IikPmsLgR9XS-6A.IxPV_VU5P40N0eN4fzNGjtkNzOqRepLGM5LZSBRc1eo&dib_tag=se&keywords=bubble+bear+and+friends+Christmas&qid=1750869945&sprefix=bubble+bear+and+friends+christmas+%2Caps%2C162&sr=8-1",
         "featured": False
     },
     {
@@ -225,9 +225,9 @@ sample_books = [
         "author": "Garry Wiggins",
         "category": "Action & Thriller",
         "description": "A sophisticated crime thriller involving the perfect heist and unexpected twists. When the stakes are high, trust no one.",
-        "price": 17.99,
+        "price": 14.99,
         "image_url": "https://i.ibb.co/WvZFWsP4/Whats-App-Image-2025-06-25-at-6-02-11-AM-2.jpg",
-        "amazon_link": "https://www.amazon.com/s?k=Midnight+Heist+Garry+Wiggins",
+        "amazon_link": "https://www.amazon.com/MIDNIGHT-HEIST-Mamba-GARRY-WIGGINS/dp/B0BMSKYTSS/ref=mp_s_a_1_2?crid=2SJ6UEKAK7V52&dib=eyJ2IjoiMSJ9.yo5-GNmWe7bwpDeRA_Lip7bNHpQzxc-fwo-v1QdoQxOZHiwvdvTLNdfFrVbVKNBQZa3dttudyr1QpnHwLh7FVSkWwSLO7R4zXP5uMcCsZQ_qJ-yAyIPTySG28oBqG_KJ6mRZBdsaMCoILhyL81FwNJjSqx1hJeuTEF0GbdY0QDNK1iv48oD7Xm8YeoPv8qB9iBjrOcg2hUBGd4hf5aZuXw.yuLOD_yP7uUeByDw3APJ3WIUsM3AmQ9pkNQ3QVodlm0&dib_tag=se&keywords=the+midnight+heist&qid=1750869806&sprefix=the+midnight+heist+%2Caps%2C280&sr=8-2",
         "featured": False
     },
     
