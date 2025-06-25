@@ -91,7 +91,7 @@ sample_books = [
         "description": "A thrilling mystery adventure as Bubble Bear solves the case of the mysterious Pumpkin Pirate. Perfect for young readers who love mysteries and adventures.",
         "price": 12.99,
         "image_url": "https://i.ibb.co/Pv0BQ11t/Whats-App-Image-2025-06-25-at-6-02-11-AM-4.jpg",
-        "amazon_link": "https://www.amazon.com/s?k=Bubble+Bear+Mystery+Pumpkin+Pirate+Garry+Jordan",
+        "amazon_link": "https://www.amazon.com/BUBBLE-BEAR-MYSTERY-PUMPKIN-PIRATE/dp/B0F6YT5JRK/ref=mp_s_a_1_1?crid=1PW0GN51N523B&dib=eyJ2IjoiMSJ9.DcQo4WgnkQ64_DSrNqTu0_FfY0MithJLNs5pbKnlsHA.EhtsbaUSFbgXi3691EZifet2A52JcepMpkdmmt1JuaA&dib_tag=se&keywords=bubble+bear+and+the+mystery+of+the+pumpkin+pirate&qid=1750809695&sprefix=bubble+bear+and+the+mystery+of+the+pumpkin+pirate+%2Caps%2C152&sr=8-1",
         "featured": False
     },
     {
