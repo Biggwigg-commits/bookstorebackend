@@ -195,17 +195,6 @@ sample_books = [
         "amazon_link": "https://www.amazon.com/SECRETS-GETTING-RICH-What-Rich/dp/B0F1YW1PX2/ref=mp_s_a_1_1?dib=eyJ2IjoiMSJ9.lZ6YQzyGwhCO1depCr_VfQ.NW9Z5Htw9txoLz7uipQAYCyfYDuIu8uAc09q2Lg8M7o&dib_tag=se&keywords=Secrets+Getting+Rich+Preston+Rockefeller&qid=1750871579&sr=8-1",
         "featured": False
     },
-    {
-        "id": str(uuid.uuid4()),
-        "title": "What the Rich Won't Tell You",
-        "author": "Preston Rockefeller",
-        "category": "Business & Self-Help",
-        "description": "Exclusive insights from generational wealth builders and their proven strategies. Learn the secrets that have been passed down through wealthy families for generations.",
-        "price": 26.99,
-        "image_url": "https://i.ibb.co/KjhqmFvT/Whats-App-Image-2025-06-25-at-6-02-12-AM-3.jpg",
-        "amazon_link": "https://www.amazon.com/s?k=What+Rich+Won't+Tell+You+Preston+Rockefeller",
-        "featured": False
-    },
     
     # Action & Thriller Category
     {
