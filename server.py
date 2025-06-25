@@ -69,7 +69,7 @@ sample_books = [
         "description": "Join Bubble Bear on an amazing adventure filled with friendship, discovery, and fun! A delightful story that teaches children about courage, friendship, and the joy of exploration.",
         "price": 24.99,
         "image_url": "https://i.ibb.co/ccHc420q/Whats-App-Image-2025-06-25-at-6-02-11-AM-1.jpg",
-        "amazon_link": "https://www.amazon.com/BUBBLE-BEARS-GREAT-ADVENTURE-JORDAN/dp/B0BMTBF9F3/ref=mp_s_a_1_1?crid=3LCYDJ7PUTNVO&dib=eyJ2IjoiMSJ9.zMiTxvjHBD5Okjxj1WV7oHmKs9mDj1jDFhl0tlBp3_faUGF6BJELlPf2_PZuayQ6hFhLngEKslGOABLa2xgRXRGeSdu678bD4yQjFrMDywWgPz1tuu03_bJiSC9ZMz-l14uClNIg-qRDfvvodlCj18n75k_H8Rp26u-Y4QPEPY53n5Hgons7YOf6iWtocwr9VECQuF_QAX5JtJdP1PdHOA.tSnVdBVDH62wm-9xfQXDsPO_cHgJPKTQ37nl3y1bB6E&dib_tag=se&keywords=bubble+bears+great+adventure&qid=1750869871&sprefix=bubble+bears+great+adventure+%2Caps%2C175&sr=8-1,
+        "amazon_link": "https://www.amazon.com/BUBBLE-BEARS-GREAT-ADVENTURE-JORDAN/dp/B0BMTBF9F3/ref=mp_s_a_1_1?crid=3LCYDJ7PUTNVO&dib=eyJ2IjoiMSJ9.zMiTxvjHBD5Okjxj1WV7oHmKs9mDj1jDFhl0tlBp3_faUGF6BJELlPf2_PZuayQ6hFhLngEKslGOABLa2xgRXRGeSdu678bD4yQjFrMDywWgPz1tuu03_bJiSC9ZMz-l14uClNIg-qRDfvvodlCj18n75k_H8Rp26u-Y4QPEPY53n5Hgons7YOf6iWtocwr9VECQuF_QAX5JtJdP1PdHOA.tSnVdBVDH62wm-9xfQXDsPO_cHgJPKTQ37nl3y1bB6E&dib_tag=se&keywords=bubble+bears+great+adventure&qid=1750869871&sprefix=bubble+bears+great+adventure+%2Caps%2C175&sr=8-1",
         "featured": True
     },
     {
