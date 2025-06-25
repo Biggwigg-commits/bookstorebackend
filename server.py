@@ -157,9 +157,9 @@ sample_books = [
         "author": "Garry Jordan",
         "category": "Business & Self-Help",
         "description": "Insider secrets and strategies from the world's wealthiest individuals. Learn the mindset and tactics that separate the ultra-wealthy from everyone else.",
-        "price": 22.99,
+        "price": 24.99,
         "image_url": "https://i.ibb.co/fzR440YM/Whats-App-Image-2025-06-25-at-6-02-12-AM-1.jpg",
-        "amazon_link": "https://www.amazon.com/s?k=What+Billionaires+Won't+Tell+You+Garry+Jordan",
+        "amazon_link": "https://www.amazon.com/WHAT-BILLIONAIRES-WONT-TELL-YOU/dp/B0F3DH6NXM/ref=mp_s_a_1_1?dib=eyJ2IjoiMSJ9.mnhNTE9XZcrb2HggfLKzFw.RNO2n5n_ziy3CNkzURgC1q6wiy1eh0eDgu23cYluBoA&dib_tag=se&keywords=What+Billionaires+Won%27t+Tell+You+Garry+Jordan&qid=1750871476&sr=8-1",
         "featured": False
     },
     {
@@ -190,9 +190,9 @@ sample_books = [
         "author": "Preston Rockefeller",
         "category": "Business & Self-Help",
         "description": "Time-tested principles and strategies for building lasting wealth from one of America's most prominent financial families.",
-        "price": 21.99,
+        "price": 24.99,
         "image_url": "https://i.ibb.co/KjhqmFvT/Whats-App-Image-2025-06-25-at-6-02-12-AM-3.jpg",
-        "amazon_link": "https://www.amazon.com/s?k=Secrets+Getting+Rich+Preston+Rockefeller",
+        "amazon_link": "https://www.amazon.com/SECRETS-GETTING-RICH-What-Rich/dp/B0F1YW1PX2/ref=mp_s_a_1_1?dib=eyJ2IjoiMSJ9.lZ6YQzyGwhCO1depCr_VfQ.NW9Z5Htw9txoLz7uipQAYCyfYDuIu8uAc09q2Lg8M7o&dib_tag=se&keywords=Secrets+Getting+Rich+Preston+Rockefeller&qid=1750871579&sr=8-1",
         "featured": False
     },
     {
@@ -238,7 +238,7 @@ sample_books = [
         "author": "Garry Wiggins",
         "category": "Legal Information",
         "description": "Essential legal strategies and knowledge for navigating federal regulations and procedures. A comprehensive guide to understanding federal law.",
-        "price": 69.00,
+        "price": 49.00,
         "image_url": "https://i.ibb.co/KvYkBSK/Whats-App-Image-2025-06-25-at-7-10-29-AM.jpg",
         "amazon_link": "https://www.amazon.com/Beating-Feds-comprehensive-Successful-Information/dp/B0BMT22BMD/ref=mp_s_a_1_2?crid=1NEIDW5E8YN3L&dib=eyJ2IjoiMSJ9.oD0wJZ3yHoi4Vngh4Pk_KZhvvGvXWwSXoC4LnOTjbDB-VRUx_ZpLMo6rqq4MCLJSRz-RGF6MiMCc3qZFnwGKbdku5UDKbJUTpZ1sZFsC3PE.8Cbjgq_LbZmreToepf_aebMej6Z3ZZrGKrg7sL21XDE&dib_tag=se&keywords=beating+the+feds&qid=1750869667&sprefix=beating+the+feds%2Caps%2C572&sr=8-2",
         "featured": False
