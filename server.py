@@ -227,7 +227,7 @@ sample_books = [
         "author": "Garry Wiggins",
         "category": "Legal Information",
         "description": "Essential legal strategies and knowledge for navigating federal regulations and procedures. A comprehensive guide to understanding federal law.",
-        "price": 49.00,
+        "price": 49.99,
         "image_url": "https://i.ibb.co/KvYkBSK/Whats-App-Image-2025-06-25-at-7-10-29-AM.jpg",
         "amazon_link": "https://www.amazon.com/Beating-Feds-comprehensive-Successful-Information/dp/B0BMT22BMD/ref=mp_s_a_1_2?crid=1NEIDW5E8YN3L&dib=eyJ2IjoiMSJ9.oD0wJZ3yHoi4Vngh4Pk_KZhvvGvXWwSXoC4LnOTjbDB-VRUx_ZpLMo6rqq4MCLJSRz-RGF6MiMCc3qZFnwGKbdku5UDKbJUTpZ1sZFsC3PE.8Cbjgq_LbZmreToepf_aebMej6Z3ZZrGKrg7sL21XDE&dib_tag=se&keywords=beating+the+feds&qid=1750869667&sprefix=beating+the+feds%2Caps%2C572&sr=8-2",
         "featured": False
