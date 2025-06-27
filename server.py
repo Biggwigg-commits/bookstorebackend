@@ -242,6 +242,17 @@ sample_books = [
         "image_url": "https://i.ibb.co/P2k1zq3/Whats-App-Image-2025-06-25-at-6-02-11-AM-5.jpg",
         "amazon_link": "https://www.amazon.com/BEATING-FEDS-comprehensive-successful-techniques/dp/B0F84JJLTD/ref=mp_s_a_1_1?crid=OAO56LR805XE&dib=eyJ2IjoiMSJ9.Z3V5gFceIwWKvMnefSapjZpblUWydgVtptHkosccWmauWskJwvw8ts-Je6HJOOGa64i5hpnT96szbiUuW0Ij5WWR0mefvGZGp8Gljidv4P_qeWzX6nA8eMRsUlLV6MVn.RndSk74SZt2XDRkGWlf-z5KjOZBsOF1E3jSRq6b4IOo&dib_tag=se&keywords=garry+Wiggins&qid=1750870505&sprefix=garry+wiggins+%2Caps%2C186&sr=8-1",
         "featured": False
+    },
+      {
+        "id": str(uuid.uuid4()),
+        "title": "Beating The State. Florida Edition",
+        "author": "Garry Wiggins",
+        "category": "Legal Information",
+        "description": "Learn all of the strategies and techniques used by high powered attorney's to beat the toughest state crimes in Florida.",
+        "price": 49.99,
+        "image_url": "https://i.postimg.cc/W3dkgdsb/Whats-App-Image-2025-06-28-at-12-14-10-AM.jpg",
+        "amazon_link": "https://www.amazon.com/BEATING-STATE-Comprehensive-Successful-Information/dp/B0F4848WY2/ref=mp_s_a_1_1?crid=24MO7FU24DSKH&dib=eyJ2IjoiMSJ9.T4Bfe7nz3fdGzX1ev6h1I-ITWTXKVriWeKSduR_0hUtgBfB-x5yXxGvFV5ROqYOEs0-Ct1qDesU62X2HYM7Q2NQ2nFmy_TYEwn06R49g9DLhG1sIP4VBMqTpGbyrRKiBddyc_suPZlagyNrLuVwPA6mjbhZkUFzYKD_I1vuNaa7E8ox2h0kPbFXs8DxG0CoYwk1vbjJAtXfYrF4w_xPk2Q.hvUOM8DRn88iPgXHRE4oSyPh1WawUCdu0pAmBMHeGuA&dib_tag=se&keywords=beating+the+state&qid=1751050393&sprefix=beating+the+state+%2Caps%2C329&sr=8-1",
+        "featured": False
     }
 ]
 
